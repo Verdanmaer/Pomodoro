@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Verdanmaer.github.io/pomodoro",
+  "homepage": "https://Verdanmaer.github.io/projects/Pomodoro",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d public",
     "build-css": "node-sass --include-path ./src --include-path ./node_modules src/ -o src/",
     "watch-css": "npm run build-css && node-sass --include-path ./src --include-path ./node_modules src/ -o src/ --watch --recursive",
     "start-js": "react-scripts start",
