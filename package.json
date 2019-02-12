@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Verdanmaer.github.io/Pomodoro",
+  "homepage": "https:Verdanmaer.github.io/projects/Pomodoro",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
