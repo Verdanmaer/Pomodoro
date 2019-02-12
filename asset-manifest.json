@@ -1,15 +1,15 @@
 {
-  "main.css": "/projects/Pomodoro/static/css/main.1c62270b.chunk.css",
-  "main.js": "/projects/Pomodoro/static/js/main.2d13c0ab.chunk.js",
-  "main.js.map": "/projects/Pomodoro/static/js/main.2d13c0ab.chunk.js.map",
-  "static/js/1.af94c3f4.chunk.js": "/projects/Pomodoro/static/js/1.af94c3f4.chunk.js",
-  "static/js/1.af94c3f4.chunk.js.map": "/projects/Pomodoro/static/js/1.af94c3f4.chunk.js.map",
-  "runtime~main.js": "/projects/Pomodoro/static/js/runtime~main.21226ddd.js",
-  "runtime~main.js.map": "/projects/Pomodoro/static/js/runtime~main.21226ddd.js.map",
-  "static/css/main.1c62270b.chunk.css.map": "/projects/Pomodoro/static/css/main.1c62270b.chunk.css.map",
-  "static/media/beep.wav": "/projects/Pomodoro/static/media/beep.dcc37a2f.wav",
-  "static/media/App.css": "/projects/Pomodoro/static/media/clock.1852307f.jpg",
-  "index.html": "/projects/Pomodoro/index.html",
-  "precache-manifest.7d47b1077600d4d7a5713a25280c9ea9.js": "/projects/Pomodoro/precache-manifest.7d47b1077600d4d7a5713a25280c9ea9.js",
-  "service-worker.js": "/projects/Pomodoro/service-worker.js"
+  "main.css": "/Pomodoro/static/css/main.e348a4e7.chunk.css",
+  "main.js": "/Pomodoro/static/js/main.6b2132a8.chunk.js",
+  "main.js.map": "/Pomodoro/static/js/main.6b2132a8.chunk.js.map",
+  "static/js/1.af94c3f4.chunk.js": "/Pomodoro/static/js/1.af94c3f4.chunk.js",
+  "static/js/1.af94c3f4.chunk.js.map": "/Pomodoro/static/js/1.af94c3f4.chunk.js.map",
+  "runtime~main.js": "/Pomodoro/static/js/runtime~main.0811de81.js",
+  "runtime~main.js.map": "/Pomodoro/static/js/runtime~main.0811de81.js.map",
+  "static/css/main.e348a4e7.chunk.css.map": "/Pomodoro/static/css/main.e348a4e7.chunk.css.map",
+  "static/media/beep.wav": "/Pomodoro/static/media/beep.dcc37a2f.wav",
+  "static/media/App.css": "/Pomodoro/static/media/clock.1852307f.jpg",
+  "index.html": "/Pomodoro/index.html",
+  "precache-manifest.3237db10f56d0c98416c033894bc486d.js": "/Pomodoro/precache-manifest.3237db10f56d0c98416c033894bc486d.js",
+  "service-worker.js": "/Pomodoro/service-worker.js"
 }
